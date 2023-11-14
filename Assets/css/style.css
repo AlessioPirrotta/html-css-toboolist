@@ -7,12 +7,11 @@
 header{
     width: 100%;
     height: 130px;
-    border: 1px solid red;
+   
 
 }
 figure{
-    border: 1px solid red;
-    margin-top: 20px;
+        margin-top: 20px;
 }
 
 figure img{
@@ -22,13 +21,12 @@ figure img{
 figure h1{
     display: inline;
     font-size: 70px;
-    border: 1px solid red;
-    vertical-align: 30px;
+        vertical-align: 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
      }
 
 main{
-    border: 1px solid red;
+    border: 1px solid rgb(255, 255, 255);
     width: 100%;
     height: 2100px;
     background-color:#29759b;
@@ -38,11 +36,150 @@ main{
 section{
     width: 80%;
     height: 100px;
-    border: 1px solid red;
+    
     margin-left: auto;
     margin-right:auto;
     margin-top: 5%;
     background-color: white;
     border-radius: 20px;
+    padding-left: 50px;
     }
+ section div{
+    width: 12%;
+    height: 50px;
+    border: 1px solid lightgray;
+    display: inline-block;
+    border-radius: 10px;
+    margin-top: 30px;
+    padding-left: 40px;
+    padding-top: 15px;
+    padding-left: ;
     
+ }
+ 
+ section :last-child{
+    width: 15%;
+ }
+
+ .azzurro{
+    background-color:#45ABEA ;
+ }
+
+ .bianco{
+    color: white;
+ }
+
+ .grigio{
+    color: lightgrey;
+ }
+ #seconda{
+    height: 1900px; ;
+    margin-top: 10px;
+ }
+
+ h2{
+    font-size: 30px;
+    margin-top: 40px;
+ }
+ .green{
+    color: #64C0A9;
+    font-size: 30px;
+    border: 1px solid #64C0A9;
+    border-radius: 100px;
+ }
+
+ span.scritte{
+    font-size: 30px;
+    vertical-align: 10px;
+ }
+
+ .riquadroazzurro{
+    width: 12%;
+    height: 40px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 10px;
+    background-color: #45ABEA;
+    border-radius: 50px;
+    padding-bottom:0px;
+    
+}
+
+.scritteriquadri{
+    color: white;
+    display: ;
+}
+.riquadroviola{
+    width: 12%;
+    height: 40px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 10px;
+    background-color:#9C72E4;
+    border-radius: 50px;
+    padding-bottom:0px;
+}
+.riquadroverde{
+    width: 10%;
+    height: 40px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 10px;
+    background-color: #64C0A9;
+    border-radius: 50px;
+    padding-bottom:0px;
+}
+.red{
+    color:red;
+    font-size: 30px;
+    border: 1px solid red;
+    border-radius: 100px;
+}
+
+.riquadroarancione{
+    width: 10%;
+    height: 40px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 10px;
+    background-color:#F29E33 ;
+    border-radius: 50px;
+    padding-bottom:0px;
+}
+
+
+.riquadrolilla{
+    width: 10%;
+    height: 40px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 10px;
+    background-color:#D863A1 ;
+    border-radius: 50px;
+    padding-bottom:0px;
+}
+
+
+.riquadroverdechiaro{
+    width: 10%;
+    height: 40px;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 10px;
+    background-color:#C4D65B ;
+    border-radius: 50px;
+    padding-bottom:0px;
+}
+
+
+
+
+
+ 
+ 
+
+
+
+
+ 
+ 
